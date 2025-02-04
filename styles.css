@@ -1,1 +1,39 @@
 /*  your css code here. If applicable */
+.container{
+	background-color:lightgray;
+	width:70%;
+	border:1px;
+	box-shadow:2px 2px 10px lightgray;
+	
+	
+}
+img{
+	width:300px;
+	margin-left:80px;
+	margin-top:50px;
+}
+h1{
+	margin-left:80px;
+	font-size:55px
+}
+.price{  
+	font-size:40px;
+	marign-left:30px;
+	text-align:center
+}
+.description{
+	font-size:40px;
+	marign-left:30px;
+	text-align:center
+}
+button{
+	margin-left:180px;
+	margin-bottom:50px;
+	background-color:tomato;
+	padding:10px 5px 10px 5px;
+	color:white;
+	border:none;
+	outline:none;
+	border-radius:4px;
+	width:100px;
+}
